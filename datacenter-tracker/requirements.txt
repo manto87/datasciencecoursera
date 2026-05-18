@@ -1,0 +1,2 @@
+# No third-party dependencies — uses only Python stdlib.
+# Python 3.10+ required (for list[dict] | None type hints).

@@ -1,0 +1,4 @@
+datacenter-tracker/__pycache__/
+datacenter-tracker/data/*.json
+datacenter-tracker/.env
+datacenter-tracker/data/tracker.log
