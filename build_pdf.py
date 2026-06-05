@@ -20,6 +20,7 @@ FILES = [
     "07-troubleshooting.md",
     "08-regole-e-legge.md",
     "09-lista-acquisto-definitiva.md",
+    "10-cablaggio-speedybee-f405v3.md",
 ]
 
 # Le emoji non sono renderizzabili dai font core PDF: le rimuoviamo per pulizia.

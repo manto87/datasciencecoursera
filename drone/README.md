@@ -52,8 +52,10 @@ mentre aspetti che arrivino i pezzi.
 7. [Risoluzione problemi (troubleshooting)](07-troubleshooting.md)
 8. [Regole, legge e volo sicuro in Italia](08-regole-e-legge.md)
 9. [Lista d'acquisto definitiva (negozi reali + link)](09-lista-acquisto-definitiva.md) 🛒
+10. [Schema di cablaggio pad-per-pad (SpeedyBee F405 V3)](10-cablaggio-speedybee-f405v3.md) 🔧
 
 📄 Lista componenti in formato tabella: [`bom.csv`](bom.csv)
+📕 Guida completa in PDF: [`Guida-Drone-FAI-DA-TE.pdf`](Guida-Drone-FAI-DA-TE.pdf)
 
 ---
 
