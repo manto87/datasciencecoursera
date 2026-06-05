@@ -1,6 +1,6 @@
 Categoria,Componente,Esempio_modello,Specifiche_chiave,Prezzo_min_EUR,Prezzo_max_EUR,Note
 Drone,Telaio 5",GEPRC / HGLRC clone,"Carbonio, bracci >=4mm, formato X/Deadcat",20,35,Robustezza agli impatti
-Drone,Motori x4,EMAX ECO II 2207,"2207, KV ~1800-2000, per 4S",35,55,Set da 4
+Drone,Motori x4,EMAX ECO II 2207 2400KV,"2207, 2400KV per 4S",35,72,Set da 4 (2400KV per 4S)
 Drone,Stack FC+ESC,SpeedyBee F405 V3,"F4, ESC 4-in-1 35-45A BLHeli_S, 30x30",40,60,Scelta consigliata principianti
 Drone,Eliche,Gemfan 51466,"5 pollici, 3 pale",5,12,Comprare scorta 8-16
 Drone,Camera FPV,Caddx Ratel 2,"CMOS micro/nano analogica",15,25,Solo per volo realtime

@@ -51,6 +51,7 @@ mentre aspetti che arrivino i pezzi.
 6. [Riprese aeree: ottenere video belli](06-riprese-aeree.md)
 7. [Risoluzione problemi (troubleshooting)](07-troubleshooting.md)
 8. [Regole, legge e volo sicuro in Italia](08-regole-e-legge.md)
+9. [Lista d'acquisto definitiva (negozi reali + link)](09-lista-acquisto-definitiva.md) 🛒
 
 📄 Lista componenti in formato tabella: [`bom.csv`](bom.csv)
 

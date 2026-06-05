@@ -20,8 +20,8 @@ La struttura in fibra di carbonio che tiene tutto insieme.
 
 ### Motori (x4)
 Trasformano l'energia elettrica in rotazione delle eliche.
-- **Cosa cercare:** misura **2207** (o 2306), **KV ~1800–2000** per batteria 4S. Il "KV" indica i giri/minuto per volt: più alto = più veloce ma consuma di più.
-- **Esempi:** EMAX ECO II 2207, iFlight XING-E 2207, BrotherHobby Avenger.
+- **Cosa cercare:** misura **2207** (o 2306). Il "KV" indica i giri/minuto per volt: più alto = più spinta ma più consumo. **Abbinato alla batteria:** con **4S** scegli **~2400KV**; con 6S scegli **~1900KV**. Visto che usiamo batterie 4S (più economiche), prendi la versione **2400KV**.
+- **Esempi:** EMAX ECO II 2207 **2400KV**, iFlight XING-E 2207, BrotherHobby Avenger.
 - 💶 **35–55 €** (set da 4)
 
 ### ESC — regolatore elettronico di velocità (4-in-1)
