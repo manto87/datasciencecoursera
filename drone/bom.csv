@@ -1,0 +1,17 @@
+Categoria,Componente,Esempio_modello,Specifiche_chiave,Prezzo_min_EUR,Prezzo_max_EUR,Note
+Drone,Telaio 5",GEPRC / HGLRC clone,"Carbonio, bracci >=4mm, formato X/Deadcat",20,35,Robustezza agli impatti
+Drone,Motori x4,EMAX ECO II 2207,"2207, KV ~1800-2000, per 4S",35,55,Set da 4
+Drone,Stack FC+ESC,SpeedyBee F405 V3,"F4, ESC 4-in-1 35-45A BLHeli_S, 30x30",40,60,Scelta consigliata principianti
+Drone,Eliche,Gemfan 51466,"5 pollici, 3 pale",5,12,Comprare scorta 8-16
+Drone,Camera FPV,Caddx Ratel 2,"CMOS micro/nano analogica",15,25,Solo per volo realtime
+Drone,VTX,SpeedyBee TX800 / Rush,"5.8GHz, 25-600mW, SmartAudio",15,25,Antenna sempre collegata
+Drone,Ricevitore,RadioMaster RP1/RP2,"ExpressLRS 2.4GHz CRSF",10,15,Deve combaciare col radiocomando
+Drone,Minuteria,XT60 + strap + viti,"Connettore, cinghie, guaina, gommini",10,15,
+Terra,Radiocomando,RadioMaster Pocket ELRS,"ELRS integrato, gimbal hall",55,70,Non risparmiare qui
+Terra,Batterie LiPo x2,CNHL / GNB / Tattu,"4S 1300-1500mAh, >=75C, XT60",40,50,Minimo due
+Terra,Caricabatterie,ISDT Q6 Nano / HOTA,"Bilanciato, modalita storage",30,45,Sicurezza: indispensabile
+Terra,Action cam (opzionale),Caddx Peanut / GoPro,"Leggera, 1080p/4K, stabilizzata",0,150,Si puo riusare una cam esistente
+Sicurezza,LiPo bag,Sacchetto ignifugo,"Per carica e storage",5,12,Fortemente consigliato
+Sicurezza,Smoke stopper,Limitatore corrente,"Protegge da corti al primo collegamento",8,15,Consigliato per principianti
+Strumenti,Saldatore,TS101 / Pinecil,"Temperatura regolabile + stagno + flux",30,55,Necessario per il montaggio
+Strumenti,Multimetro,Generico,"Continuita, tensione",10,25,Per controllare i corti
