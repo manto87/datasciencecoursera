@@ -61,6 +61,7 @@ mentre aspetti che arrivino i pezzi.
 9. [Lista d'acquisto definitiva (negozi reali + link)](09-lista-acquisto-definitiva.md) 🛒
 10. [Schema di cablaggio pad-per-pad (SpeedyBee F405 V3)](10-cablaggio-speedybee-f405v3.md) 🔧
 11. [**PIANO RIVISTO: eliche protette (cinewhoop) + acquisti dalla Cina**](11-piano-rivisto-cinewhoop-acquisti-cina.md) 🔄🇨🇳
+12. [Config Betaflight di partenza (build AIO cinewhoop)](12-config-betaflight-aio.md) ⚙️
 
 📄 Lista componenti in formato tabella: [`bom.csv`](bom.csv)
 📕 Guida completa in PDF: [`Guida-Drone-FAI-DA-TE.pdf`](Guida-Drone-FAI-DA-TE.pdf)
