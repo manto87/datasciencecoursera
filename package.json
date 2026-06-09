@@ -1,0 +1,25 @@
+{
+  "name": "family-schedule-reminders",
+  "version": "1.0.0",
+  "description": "Pianifica la settimana della famiglia e invia reminder WhatsApp giornalieri (scuola, doposcuola, lavoro genitori, aiuto nonni).",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "send:today": "node src/cli.js send today",
+    "send:tomorrow": "node src/cli.js send tomorrow",
+    "plan:week": "node src/cli.js plan week",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "node-cron": "^3.0.3",
+    "twilio": "^5.4.0"
+  },
+  "license": "MIT"
+}

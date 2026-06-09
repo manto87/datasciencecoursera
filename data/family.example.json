@@ -1,0 +1,40 @@
+{
+  "timezone": "Europe/Rome",
+  "reminderTime": "07:00",
+  "language": "it",
+  "preferenceOrder": ["mamma", "papa", "nonna", "nonno"],
+  "people": {
+    "papa":  { "name": "Papà",  "role": "parent",      "phone": "+393331112222" },
+    "mamma": { "name": "Mamma", "role": "parent",      "phone": "+393331113333" },
+    "nonna": { "name": "Nonna", "role": "grandparent", "phone": "+393331114444" },
+    "nonno": { "name": "Nonno", "role": "grandparent", "phone": "+393331115555" }
+  },
+  "availability": {
+    "papa":  { "work":      { "mon": [["09:00", "18:00"]], "tue": [["09:00", "18:00"]], "wed": [["09:00", "18:00"]], "thu": [["09:00", "18:00"]], "fri": [["09:00", "14:00"]] } },
+    "mamma": { "work":      { "mon": [["08:00", "16:00"]], "tue": [["08:00", "16:00"]], "wed": [], "thu": [["08:00", "16:00"]], "fri": [["08:00", "16:00"]] } },
+    "nonna": { "available": { "mon": [["07:00", "19:00"]], "tue": [["07:00", "19:00"]], "wed": [["07:00", "19:00"]], "thu": [["07:00", "19:00"]], "fri": [["07:00", "19:00"]] } },
+    "nonno": { "available": { "mon": [], "tue": [["15:00", "19:00"]], "wed": [], "thu": [["15:00", "19:00"]], "fri": [] } }
+  },
+  "children": {
+    "giulia": {
+      "name": "Giulia",
+      "schedule": {
+        "mon": { "school": ["08:30", "16:30"], "afterschool": ["16:30", "17:30"], "activity": "Calcio" },
+        "tue": { "school": ["08:30", "16:30"] },
+        "wed": { "school": ["08:30", "12:30"] },
+        "thu": { "school": ["08:30", "16:30"], "afterschool": ["16:30", "18:00"], "activity": "Inglese" },
+        "fri": { "school": ["08:30", "16:30"] }
+      }
+    },
+    "marco": {
+      "name": "Marco",
+      "schedule": {
+        "mon": { "school": ["08:00", "13:00"] },
+        "tue": { "school": ["08:00", "13:00"], "afterschool": ["13:00", "16:00"] },
+        "wed": { "school": ["08:00", "13:00"] },
+        "thu": { "school": ["08:00", "13:00"], "afterschool": ["13:00", "16:00"], "activity": "Nuoto" },
+        "fri": { "school": ["08:00", "13:00"] }
+      }
+    }
+  }
+}

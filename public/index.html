@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Piano Famiglia</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>👨‍👩‍👧‍👦 Piano Famiglia</h1>
+    <p class="sub">Pianifica la settimana e manda i reminder WhatsApp</p>
+  </header>
+
+  <main>
+    <section class="toolbar">
+      <button id="refresh">🔄 Aggiorna</button>
+      <label>Invio di prova:
+        <select id="when">
+          <option value="today">Oggi</option>
+          <option value="tomorrow">Domani</option>
+          <option value="mon">Lunedì</option>
+          <option value="tue">Martedì</option>
+          <option value="wed">Mercoledì</option>
+          <option value="thu">Giovedì</option>
+          <option value="fri">Venerdì</option>
+        </select>
+      </label>
+      <button id="send" class="primary">📲 Invia WhatsApp</button>
+      <span id="status" class="status"></span>
+    </section>
+
+    <section id="alerts"></section>
+    <section id="week" class="week"></section>
+  </main>
+
+  <footer>
+    <p>Le credenziali Twilio si configurano nel file <code>.env</code> sul server. Imposta <code>DRY_RUN=1</code> per provare senza inviare davvero.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
