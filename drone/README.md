@@ -8,7 +8,14 @@ parte **da principiante**.
 > - 🎯 **Uso:** ibrido/versatile (riprese decenti + divertimento nel pilotaggio)
 > - 💶 **Budget:** ~150–300 € (vedi note sotto)
 > - 🧰 **Esperienza richiesta:** nessuna — si parte dalle basi
-> - 🛠️ **Tipo:** quadricottero freestyle/cinematic 5"
+> - 🛠️ **Tipo:** ~~quadricottero 5"~~ → **cinewhoop 3.5" con eliche protette** (vedi sotto)
+
+> 🔄 **REVISIONE DEL PROGETTO (giugno 2026):** su richiesta, le **eliche devono
+> essere protette dalla struttura** → la build definitiva è un **cinewhoop 3.5"**
+> (telaio GEPRC CineLog35 con condotti paraelica integrati). Il piano rivisto,
+> con costi dettagliati e acquisti anche dalla Cina, è nel
+> **[capitolo 11](11-piano-rivisto-cinewhoop-acquisti-cina.md)** — che sostituisce
+> le build dei capitoli 1 e 9. Tutto il resto della guida resta valido.
 
 ---
 
@@ -53,6 +60,7 @@ mentre aspetti che arrivino i pezzi.
 8. [Regole, legge e volo sicuro in Italia](08-regole-e-legge.md)
 9. [Lista d'acquisto definitiva (negozi reali + link)](09-lista-acquisto-definitiva.md) 🛒
 10. [Schema di cablaggio pad-per-pad (SpeedyBee F405 V3)](10-cablaggio-speedybee-f405v3.md) 🔧
+11. [**PIANO RIVISTO: eliche protette (cinewhoop) + acquisti dalla Cina**](11-piano-rivisto-cinewhoop-acquisti-cina.md) 🔄🇨🇳
 
 📄 Lista componenti in formato tabella: [`bom.csv`](bom.csv)
 📕 Guida completa in PDF: [`Guida-Drone-FAI-DA-TE.pdf`](Guida-Drone-FAI-DA-TE.pdf)

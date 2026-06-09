@@ -1,5 +1,11 @@
 # 10 — Schema di cablaggio pad-per-pad (SpeedyBee F405 V3)
 
+> 🔄 **NOTA DI REVISIONE:** con la build cinewhoop del
+> [capitolo 11](11-piano-rivisto-cinewhoop-acquisti-cina.md) la scheda è il
+> **SpeedyBee F405 AIO 40A**: stessi pad e stessi collegamenti per ricevitore,
+> camera e VTX descritti qui — ma **niente cavo 8 pin** (par. 10.1): i pad dei
+> motori M1–M4 e quelli batteria B+/B- sono **direttamente sulla scheda AIO**.
+
 Questo capitolo ti dice **dove saldare ogni filo** sullo stack SpeedyBee F405 V3
 (FC + ESC 50A). È la mappa che useremo durante l'[assemblaggio](03-assemblaggio.md).
 

@@ -1,5 +1,10 @@
 # 9 — Lista d'acquisto definitiva (negozi reali + link)
 
+> 🔄 **NOTA DI REVISIONE:** questa lista si riferisce alla build 5" originale.
+> La build definitiva (eliche protette, cinewhoop 3.5") con costi dettagliati e
+> link anche dalla Cina è nel **[capitolo 11](11-piano-rivisto-cinewhoop-acquisti-cina.md)**.
+> I negozi EU elencati qui sotto restano ottimi riferimenti.
+
 Questa è la **build concreta** che ti consiglio, con prodotti realmente
 disponibili e negozi affidabili (priorità a **negozi italiani/europei** per
 spedizioni veloci, garanzia e assistenza in italiano).

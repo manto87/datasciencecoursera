@@ -1,17 +1,17 @@
-Categoria,Componente,Esempio_modello,Specifiche_chiave,Prezzo_min_EUR,Prezzo_max_EUR,Note
-Drone,Telaio 5",GEPRC / HGLRC clone,"Carbonio, bracci >=4mm, formato X/Deadcat",20,35,Robustezza agli impatti
-Drone,Motori x4,EMAX ECO II 2207 2400KV,"2207, 2400KV per 4S",35,72,Set da 4 (2400KV per 4S)
-Drone,Stack FC+ESC,SpeedyBee F405 V3,"F4, ESC 4-in-1 35-45A BLHeli_S, 30x30",40,60,Scelta consigliata principianti
-Drone,Eliche,Gemfan 51466,"5 pollici, 3 pale",5,12,Comprare scorta 8-16
-Drone,Camera FPV,Caddx Ratel 2,"CMOS micro/nano analogica",15,25,Solo per volo realtime
-Drone,VTX,SpeedyBee TX800 / Rush,"5.8GHz, 25-600mW, SmartAudio",15,25,Antenna sempre collegata
-Drone,Ricevitore,RadioMaster RP1/RP2,"ExpressLRS 2.4GHz CRSF",10,15,Deve combaciare col radiocomando
-Drone,Minuteria,XT60 + strap + viti,"Connettore, cinghie, guaina, gommini",10,15,
-Terra,Radiocomando,RadioMaster Pocket ELRS,"ELRS integrato, gimbal hall",55,70,Non risparmiare qui
-Terra,Batterie LiPo x2,CNHL / GNB / Tattu,"4S 1300-1500mAh, >=75C, XT60",40,50,Minimo due
-Terra,Caricabatterie,ISDT Q6 Nano / HOTA,"Bilanciato, modalita storage",30,45,Sicurezza: indispensabile
-Terra,Action cam (opzionale),Caddx Peanut / GoPro,"Leggera, 1080p/4K, stabilizzata",0,150,Si puo riusare una cam esistente
-Sicurezza,LiPo bag,Sacchetto ignifugo,"Per carica e storage",5,12,Fortemente consigliato
-Sicurezza,Smoke stopper,Limitatore corrente,"Protegge da corti al primo collegamento",8,15,Consigliato per principianti
-Strumenti,Saldatore,TS101 / Pinecil,"Temperatura regolabile + stagno + flux",30,55,Necessario per il montaggio
-Strumenti,Multimetro,Generico,"Continuita, tensione",10,25,Per controllare i corti
+Categoria,Componente,Prodotto,Specifiche_chiave,Prezzo_Cina_EUR,Prezzo_EU_EUR,Canale_consigliato,Note
+Drone,Telaio cinewhoop,GEPRC CineLog35 frame kit,"3.5 pollici, condotti paraelica integrati, stack 25.5x25.5",33-40,40-48,Cina (Banggood/AliExpress GEPRC store),Eliche protette dalla struttura
+Drone,FC+ESC AIO,SpeedyBee F405 AIO 40A,"25.5x25.5, ESC 40A integrato, 3-6S, BEC 5V+9V",50-55,58-65,Cina (Banggood ~52),Niente cavo FC-ESC: tutto su una scheda
+Drone,Motori x4,GEPRC GR2004 2550KV,"2004, 2550KV versione 2-4S",60-80,75-95,Cina,ATTENZIONE: 2550KV non 1750/3150 (quelle sono 6S)
+Drone,Motori x4 (alternativa budget),DarwinFPV/RCinPower 2004 ~2900KV,"2004 per 4S",40-50,-,Cina (AliExpress),Qualita inferiore ma funzionale
+Drone,Eliche,Gemfan D90 3 pale x8 paia,"90mm 3.5 pollici da condotto, albero 1.5mm/M5",10-14,14-18,Cina (AliExpress ~1.9/paio),Verificare albero compatibile coi motori
+Drone,Camera FPV,Caddx Ratel 2,"analogica 1200TVL CMOS",26-32,30-35,Cina (store Caddx ufficiale AliExpress),
+Drone,VTX,SpeedyBee TX800,"5.8GHz 25-800mW SmartAudio, alimentazione 5V",20-25,24-30,Cina,Antenna sempre collegata; 25mW per i test
+Drone,Ricevitore,RadioMaster RP1,"ExpressLRS 2.4GHz CRSF versione EU-LBT",12-15,14-18,Cina (store RadioMaster ufficiale),Deve combaciare con la radio
+Drone,Minuteria,XT60 pigtail + strap + gommini + viti,"guaina termorestringente inclusa",8-12,12-18,Cina,
+Terra,Radiocomando,RadioMaster Pocket ELRS,"EdgeTX, ELRS 2.4GHz EU-LBT, Mode 2",62-72,70-85,Cina o EU (garanzia),Ordinare per primo: serve per il simulatore
+Terra,Batterie LiPo x3,CNHL MiniStar / GNB 4S 1100mAh,"4S 850-1100mAh XT60 >=70C",-,14-18 cad (45-54),SOLO magazzino UE o negozio EU,Le LiPo non si spediscono per via aerea dalla Cina
+Terra,Caricabatterie,ISDT Q6 Nano,"bilanciato, storage mode, serve PSU esterna",30-35,37-42,EU consigliato,Aggiungere alimentatore 12V 5A (8-15)
+Sicurezza,LiPo bag,Sacchetto ignifugo,"per carica e storage",5-8,8-12,Cina,
+Sicurezza,Smoke stopper,Limitatore corrente XT60,"protegge da corti al primo collegamento",6-10,10-15,Cina,Fortemente consigliato
+Strumenti,Saldatore,TS101 / Pinecil + stagno + flux,"temperatura regolabile",30-45,40-60,Cina o EU,Se non gia posseduto
+Strumenti,Multimetro,Generico,"continuita e tensione",8-15,15-25,Cina o EU,Per controllare i corti

@@ -1,5 +1,10 @@
 # 1 — Componenti e lista della spesa (BOM)
 
+> 🔄 **NOTA DI REVISIONE:** la build è cambiata in un **cinewhoop 3.5" con eliche
+> protette** — telaio, FC/ESC, motori, eliche e batterie aggiornati nel
+> **[capitolo 11](11-piano-rivisto-cinewhoop-acquisti-cina.md)**. Le spiegazioni
+> qui sotto su *cosa fa* ogni componente restano tutte valide.
+
 Qui spieghiamo **cosa fa ogni pezzo**, **come sceglierlo** e **quanto costa**.
 Le marche indicate sono esempi affidabili ed economici al momento della scrittura:
 i prezzi sono indicativi (€) e cambiano spesso, quindi confronta sempre.
